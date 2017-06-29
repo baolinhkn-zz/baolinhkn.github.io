@@ -1,0 +1,79 @@
+body {
+  background: #555B68;
+  color: #232d24;
+	font-family: 'Spectral', serif;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  color: #cdcdcd;
+}
+
+.jumbotron {
+  background: #fccb6e;
+  color: #232d24;
+  text-align: center;
+  background-size: cover;
+  padding-top: 20%;
+	padding-bottom: 20%;
+  margin-bottom: 0;
+}
+
+.jumbotron p {
+  color: white;
+  font-size: 26px;
+}
+
+.large-title {
+  font-size: 48px;
+  color: #232d24;
+	font-family: 'Spectral', serif;
+  margin-left: 30px;
+}
+
+.small-title
+{
+  font-size: 36px;
+  color: #ced7d6;
+	font-family: 'Spectral', serif;
+}
+.call-to-action p {
+  font-family: sans-serif;
+}
+
+.connect {
+  background-color: #c1b6ac;
+  padding-bottom: 5%;
+}
+
+.aboutme {
+  background-color:#ced7d6;
+
+}
+.content {
+  margin-top: 10px;
+  color: #19181f;
+  margin-bottom: 10px;
+}
+.labels
+{
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+.glyphicon-large {
+	font-size: 90px;
+  text-align:center;
+  color: #19181f;
+}
+
+.glyphicon-large:hover {
+  color: white;
+}
+
+.glyphicon-medium {
+  font-size: 35px;
+}
