@@ -1,6 +1,6 @@
 body {
   background: #555B68;
-  color: #232d24;
+  color: white;
 	font-family: 'Spectral', serif;
 }
 
@@ -38,7 +38,7 @@ p {
 .small-title
 {
   font-size: 36px;
-  color: #ced7d6;
+  color: white;
 	font-family: 'Spectral', serif;
 }
 .call-to-action p {
@@ -64,13 +64,13 @@ p {
   color: white;
   font-family: 'Quicksand', sans-serif;
 }
-.glyphicon-large {
+.glyphicon-medium {
 	font-size: 90px;
   text-align:center;
   color: #19181f;
 }
 
-.glyphicon-large:hover {
+.glyphicon-medium:hover {
   color: white;
 }
 
